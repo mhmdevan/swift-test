@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "poster_78e2a09a-b1d2-49ba-a2b5-bd46527a7023.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "poster_78e2a09a-b1d2-49ba-a2b5-bd46527a7023 1.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "poster_78e2a09a-b1d2-49ba-a2b5-bd46527a7023 2.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
